@@ -1,0 +1,16 @@
+#bg-color {
+  background: #e94196;
+  margin-top: 50px;
+  margin-bottom: 30px;
+}
+
+.header-3 {
+  background-color: red;
+  background-color: black;
+  color: #f5deb3;
+
+  font-size: 100px;
+  text-align: center;
+  font-weight: 500;
+  font-style: italic;
+}
